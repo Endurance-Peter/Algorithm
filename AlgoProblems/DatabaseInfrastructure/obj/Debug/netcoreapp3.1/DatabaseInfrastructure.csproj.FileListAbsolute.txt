@@ -1,0 +1,9 @@
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\DatabaseInfrastructure\bin\Debug\netcoreapp3.1\DatabaseInfrastructure.deps.json
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\DatabaseInfrastructure\bin\Debug\netcoreapp3.1\DatabaseInfrastructure.dll
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\DatabaseInfrastructure\bin\Debug\netcoreapp3.1\DatabaseInfrastructure.pdb
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\DatabaseInfrastructure\obj\Debug\netcoreapp3.1\DatabaseInfrastructure.csprojAssemblyReference.cache
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\DatabaseInfrastructure\obj\Debug\netcoreapp3.1\DatabaseInfrastructure.AssemblyInfoInputs.cache
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\DatabaseInfrastructure\obj\Debug\netcoreapp3.1\DatabaseInfrastructure.AssemblyInfo.cs
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\DatabaseInfrastructure\obj\Debug\netcoreapp3.1\DatabaseInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\DatabaseInfrastructure\obj\Debug\netcoreapp3.1\DatabaseInfrastructure.dll
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\DatabaseInfrastructure\obj\Debug\netcoreapp3.1\DatabaseInfrastructure.pdb
