@@ -1,0 +1,13 @@
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\AlgoProblems\bin\Debug\netcoreapp3.1\AlgoProblems.exe
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\AlgoProblems\bin\Debug\netcoreapp3.1\AlgoProblems.deps.json
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\AlgoProblems\bin\Debug\netcoreapp3.1\AlgoProblems.runtimeconfig.json
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\AlgoProblems\bin\Debug\netcoreapp3.1\AlgoProblems.runtimeconfig.dev.json
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\AlgoProblems\bin\Debug\netcoreapp3.1\AlgoProblems.dll
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\AlgoProblems\bin\Debug\netcoreapp3.1\AlgoProblems.pdb
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\AlgoProblems\obj\Debug\netcoreapp3.1\AlgoProblems.csprojAssemblyReference.cache
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\AlgoProblems\obj\Debug\netcoreapp3.1\AlgoProblems.AssemblyInfoInputs.cache
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\AlgoProblems\obj\Debug\netcoreapp3.1\AlgoProblems.AssemblyInfo.cs
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\AlgoProblems\obj\Debug\netcoreapp3.1\AlgoProblems.csproj.CoreCompileInputs.cache
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\AlgoProblems\obj\Debug\netcoreapp3.1\AlgoProblems.dll
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\AlgoProblems\obj\Debug\netcoreapp3.1\AlgoProblems.pdb
+C:\Users\endurance.peter\Desktop\Algorithm\Algorithm\AlgoProblems\AlgoProblems\obj\Debug\netcoreapp3.1\AlgoProblems.genruntimeconfig.cache
