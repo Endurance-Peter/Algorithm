@@ -4,6 +4,7 @@ using Infrastructure.Repositories;
 using Infrastructure.UnitOfWorks;
 using Microsoft.Extensions.DependencyInjection;
 using System;
+using System.Linq.Expressions;
 
 namespace Infrastructure
 {
@@ -56,6 +57,19 @@ namespace Infrastructure
 
             //var result = repository.GetById(person.Id);
 
+        }
+        public class Circle
+        {
+            public int Id { get; set; }
+            public int Value { get; set; }
+        }
+
+        public class Test
+        {
+            public bool Method(Expression<Func<Circle, bool>> expression)
+            {
+
+            }
         }
     }
 }
